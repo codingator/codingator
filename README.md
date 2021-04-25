@@ -1,6 +1,6 @@
 <h1 align="center">
   Hello😆, I'm Developer Jaehyeon
-</p>
+</h1>
 
 <p align="center">
   Welcome to my GitHub!
