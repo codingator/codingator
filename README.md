@@ -1,32 +1,17 @@
-### Hi there 👋
+## Hello😆, I'm Developer Jaehyeon
 
-# A statically generated blog example using Next.js, Markdown, and TypeScript
+Welcome to my GitHub.
 
-This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
+### Now
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
+  * I'm finding a job🔎... Yeah, I am not working right now. maybe from long time ago.
+  * Currnetly studying **Spring boot** and personal projects for Service delivery system(Food Info).
+  * I used **Flask** and **Express.js**. So I'm admiring at the community of Spring(I'm Boot).
 
-The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
+### Side
+  * What should I do for other?
 
-To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) and [`remark-html`](https://github.com/remarkjs/remark-html) to convert the Markdown files into an HTML string, and then send it down as a prop to the page. The metadata of every post is handled by [`gray-matter`](https://github.com/jonschlinkert/gray-matter) and also sent in props to the page.
-
-## How to use
-
-## Deploy your own
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript&project-name=blog-starter-typescript&repository-name=blog-starter-typescript)
-
-Execute [`git clone`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
-
-```bash
-git clone https://github.com/codingator/nextjs-blog.git
-```
-
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000).
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+! [] (https://komarev.com/ghpvc/?username=codingator&color=blueviolet)
 
 <!--
 **codingator/codingator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
