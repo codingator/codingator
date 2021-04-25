@@ -1,6 +1,10 @@
-## Hello😆, I'm Developer Jaehyeon
+<h1 align="center">
+  Hello😆, I'm Developer Jaehyeon
+</p>
 
-Welcome to my GitHub.
+<p align="center">
+  Welcome to my GitHub!
+</p>
 
 ### Now
 
@@ -11,7 +15,7 @@ Welcome to my GitHub.
 ### Side
   * What should I do for other?
 
-! [] (https://komarev.com/ghpvc/?username=codingator&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=codingator&color=blueviolet)
 
 <!--
 **codingator/codingator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
