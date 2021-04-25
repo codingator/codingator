@@ -10,13 +10,13 @@
   
 </p>
 
-### Now
+### 🎫Now
 
   * I'm finding a job🔎... Yeah, I am not working right now. maybe from long time ago.
   * Currnetly studying **Spring boot** and personal projects for Service delivery system(Food Info).
   * I used **Flask** and **Express.js**. So I'm admiring at the community of Spring(I'm Boot).
 
-### Side
+### 🎮Side
   * What should I do for other?
 
 <div align="center">
