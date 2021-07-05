@@ -12,9 +12,9 @@
 
 ### 🎫Now
 
-  * I'm finding a job🔎... Yeah, I am not working right now. maybe from long time ago.
-  * Currnetly studying **Spring boot** and personal projects for Service delivery system(Food Info).
-  * I used **Flask** and **Express.js**. So I'm admiring at the community of Spring(I'm Boot).
+  * I work as a head of the development team(alone) at a Start-up.
+  * Advice is very welcome.
+<!--   * 사용 도구? -->
 
 ### 🎮Side
   * What should I do for other?
