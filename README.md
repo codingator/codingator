@@ -12,8 +12,8 @@
 
 ### 🎫Now
 
-  * I work as a head of the development team(alone) at a Start-up.
-  * Advice is very welcome.
+  * I work as a head of the development team(alone) in a Start-up.
+  * Advice is welcome.
 <!--   * 사용 도구? -->
 
 ### 🎮Side
