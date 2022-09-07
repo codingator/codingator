@@ -6,11 +6,11 @@
 
 ### 🎫Now
 
-  * I work as a front developer with Vue.
-  * 
+  * I work as a front developer with Vue(and Django).
+  * Next purpose: CICD(Jenkins, Kubernetes), Deep learning
 
 ### Things in use
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <div align="center">
   
